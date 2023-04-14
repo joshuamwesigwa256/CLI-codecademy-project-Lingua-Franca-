@@ -1,0 +1,500 @@
+   31  vim ~/.bashrc
+   32  source ~/.bashrc
+   33  vim ~/.bashrc
+   34  source ~/.bashrc
+   35  vim ~/.bashrc
+   36  vim ~/.bashrc
+   37  source ~/.bashrc
+   38  vim ~/.bashrc
+   39  source ~/.bashrc
+   40  vim ~/.bashrc
+   41  source ~/.bashrc
+   42  vim ~/.bashrc
+   43  ls
+   44  source ~/.bashrc
+   45  vim ~/.bashrc
+   46  source ~/.bashrc
+   47  vim ~/.bashrc
+   48  source ~/.bashrc
+   49  newfile 0-alias
+   50  ls
+   51  new file 1-hello_you
+   52  ls
+   53  vim ~/.bashrc
+   54  newfile
+   55  vim ~/.bashrc
+   56  newfile
+   57  newfile 1-hello_you
+   58  vim ~/.bashrc
+   59  newfile 1-hello_you
+   60  vim ~/.bashrc
+   61  newfile 1-hello_you
+   62  printenv
+   63  alias
+   64  ll
+   65    ls
+   66  vim ~/.bash_profile
+   67  exit
+   68  ls
+   69  pwd
+   70  cd Documents/GitHub/alx-system_engineering-devops/0x03-shell_variables_expansions/
+   71  ls
+   72  vim ~/.bash_profile 
+   73  cd Documents/GitHub/alx-system_engineering-devops/0x03-shell_variables_expansions/
+   74  source ~/.bashrc
+   75  newfile precious
+   76  ls
+   77  newfile precious
+   78  ls
+   79  ll
+   80  newfile 0-alias
+   81  ls
+   82  vim ~/.bashrc
+   83  source ~/.bashrc
+   84  newfile 0-alias
+   85  ls
+   86  ls
+   87  cd Documents/GitHub/alx-system_engineering-devops/0x03-shell_variables_expansions/
+   88  ls
+   89  vi 0-alias 1-hello_you 2-path 3-paths 4-global_variables 5-local_variables 6-create_local_variable 7-create_global_variable 8-true_knowledge 9-divide_and_rule 10-love_exponent_breath 11-binary_to_decimal 12-combinations 13-print_float 100-decimal_to_hexadecimal 101-rot13 102-odd 103-water_and_stir
+   90  cat 11-binary_to_decimal 
+   91  git commit -am 'Creating all files plus the shebang'
+   92  git status
+   93  git push
+   94  git fetch
+   95  git pull
+   96  git push
+   97  ls
+   98  cd ..
+   99  ls
+  100  cd 0x03-shell_variables_expansions/
+  101  pwd
+  102  ls
+  103  git status
+  104  git commit -am 'Creating all files plus the shebang'
+  105  git add .
+  106  git status
+  107  git commit -m 'Creating all files plus the Shebang'
+  108  git push
+  109  vi 0-alias 
+  110  chmod +x 0-alias 
+  111  git add .
+  112  git commit -m 'adding 0-alias'
+  113  git push
+  114  vi 0-alias 
+  115  git add .
+  116  git commit -m 'Creating 0-alias'
+  117  git push
+  118  vi 1-hello_you 
+  119  chmod +x 1-hello_you 
+  120  git add .
+  121  git commit -m 'Adding 1-hello-you'
+  122  git push
+  123  ll 1-hello_you 
+  124  ll 3-paths 
+  125  vi 1-hello_you 
+  126  echo hello $USER
+  127  echo "hello $USER"
+  128  ls
+  129  vi 2
+  130  vi 2-path 
+  131  vi 1-hello_you 
+  132  git add .
+  133  git commit -m 'Adding 2-path'
+  134  git push
+  135  vi 3-paths 
+  136  chmod +x 3-paths 
+  137  git add .
+  138  git commit -m 'adding 3-paths
+  139  bkj
+  140  clear
+  141  git add .
+  142  :q
+  143  \\
+  144  ~
+  145  exit
+  146  ls
+  147  ls
+  148  cd Documents/GitHub/alx-system_engineering-devops/0x03-shell_variables_expansions/
+  149  ls
+  150  git status
+  151  git push
+  152  git commit -m 'Adding 3-paths'
+  153  git push
+  154  chmod +x 3-paths 
+  155  vi 4-global_variables 
+  156  chmod +x 4-global_variables 
+  157  git add .
+  158  git commit -m 'Adding 4-global variables'
+  159  git push
+  160  vi 5-local_variables 
+  161  chmod +x 5-local_variables 
+  162  git add .
+  163  git commit -m 'Adding 5-local_variables'
+  164  git push
+  165  vi 6-create_local_variable 
+  166  chmod +x 6-create_local_variable 
+  167  git add .
+  168  git commit -m 'Adding 6-create_local_variable'
+  169  git push
+  170  export BEST="School"
+  171  vi 7-create_global_variable 
+  172  git add .
+  173  git commit -m 'Adding 7-create_global_variable'
+  174  git push
+  175  vi 8-true_knowledge 
+  176  git add .
+  177  git commit -m 'Adding 8-true_knowledge'
+  178  git push
+  179  chmod +x 8-true_knowledge 
+  180  vi 9-divide_and_rule 
+  181  chmod +x 9-divide_and_rule 
+  182  git add .
+  183  git commit -m 'Adding 9-divide_and_rule'
+  184  git push
+  185  vi 9-divide_and_rule 
+  186  vi 10-love_exponent_breath 
+  187  chmod +x 10-love_exponent_breath 
+  188  git add .
+  189  git commit -m 'Adding 10-love_exponent_breath'
+  190  git push
+  191  vi 11-binary_to_decimal 
+  192  chmod +x 11-binary_to_decimal 
+  193  git add .
+  194  git commit -m 'Adding 11-binary_to_decimal'
+  195  git push
+  196  vi 12-combinations 
+  197  chmod +x 12-combinations 
+  198  git add .
+  199  git commit -m 'Adding 12-combinations'
+  200  git push
+  201  vi 13-print_float 
+  202  chmod +x 13-print_float 
+  203  git add .
+  204  git commit -m 'Adding 13-print_float'
+  205  git push
+  206  vi 14
+  207  vi 100-decimal_to_hexadecimal 
+  208  chmod +x 100-decimal_to_hexadecimal 
+  209  git add .
+  210  git commit -m 'adding 100-decimal_to_hexadecimal'
+  211  git push
+  212  ls
+  213  vi 101-rot13 
+  214  chmod +x 101-rot13 
+  215  git add .
+  216  git commit -m 'Adding 101-rot13'
+  217  git push
+  218  vi 102-odd 
+  219  chmod +x 102-odd 
+  220  git add .
+  221  git commit -m 'Adding 102-odd'
+  222  git push
+  223  vi 103-water_and_stir 
+  224  chmod +x 103-water_and_stir 
+  225  git add .
+  226  git commit -m 'Adding 103-water_and_stir'
+  227  git push
+  228  exit
+  229  sudo
+  230  su
+  231  exit
+  232  sudo
+  233  exit
+  234  exit
+  235  echo $USER
+  236  LS
+  237  printenv | less
+  238  echo $OS
+  239  cd Documents/GitHub/
+  240  ls
+  241  alx-pre_course/
+  242  ls
+  243  cd alx-pre_course/
+  244  ls
+  245  cd ..
+  246  cd alx-s
+  247  cd alx-system_engineering-devops/
+  248  ls
+  249  cd 0x00-shell_basics/
+  250  ls
+  251  touch great
+  252  ls
+  253  ll great
+  254  chmod +x great 
+  255  ls
+  256  cd ..
+  257  ls
+  258  cd 0x01-shell_permissions/
+  259  ls
+  260  git status
+  261  cd ..
+  262  ls
+  263  cd 0x03-shell_variables_expansions/
+  264  ll 0-alias 
+  265  ls
+  266  cd ..
+  267  ls
+  268  0x00-shell_basics/
+  269  ls
+  270  cd 0x00-shell_basics/
+  271  ls
+  272  ls
+  273  touch good
+  274  ls
+  275  ll good
+  276  chmod +x good 
+  277  ls
+  278  ll good 
+  279  sudo chmod +x good 
+  280  sudo
+  281  exit
+  282  printf " Hello"
+  283  ls
+  284  ./Recent/
+  285  ls
+  286  cd Documents/
+  287  ls
+  288  ls
+  289  ls
+  290  cd Downloads/
+  291  ls
+  292  cd lingua-franca-project.zip 
+  293  cd
+  294  ls
+  295  cd Desktop/
+  296  ls
+  297  cd lingua-franca/
+  298  ls
+  299  pwd
+  300  ls
+  301  mkdir world
+  302  cd world/ | touch esperanto.txt | ls
+  303  cd world/
+  304  ls
+  305  cd world/;touch esperanto.txt;ls
+  306  pwd
+  307  touch esperanto.txt;ls
+  308  ls
+  309  ls -al
+  310  ls -al | sort
+  311  cd ../
+  312  ls
+  313  cat europe/
+  314  cd europe/
+  315  ls
+  316  mv chinese.txt ../asia/
+  317  ls
+  318  cd ../;ls
+  319  cp spanish.txt europe/
+  320  cd europe/;ls
+  321  cd ..
+  322  ls
+  323  cp spanish.txt northamerica/; cp spanish.txt southamerica/
+  324  ls
+  325  cd southamerica/;ls
+  326  ls
+  327  cd..
+  328  cd ..
+  329  ls
+  330  cd todo/
+  331  ls
+  332  cd africa/
+  333  ls
+  334  cd ..
+  335  ls
+  336  pwd
+  337  cp africa/afrihili.txt ../africa/
+  338  cp asia/{bengali.txt,punjabi.txt} ../asia/
+  339  ls
+  340  cd asia/;ls
+  341  cd ..
+  342  ls
+  343  cd ..
+  344  ls
+  345  cd asia/;ls
+  346  cd ..
+  347  ls
+  348  cd todo/
+  349  ls
+  350  cp europe/yiddish.txt ../europe/
+  351  ls
+  352  cd ..
+  353  ls
+  354  cd europe/;ls
+  355  cd ..
+  356  ls
+  357  rm -r todo/
+  358  ls
+  359  cd asia/;ls
+  360  ls > asia
+  361  ls
+  362  ls
+  363  pwd
+  364  cd ..
+  365  ls
+  366  cd africa/
+  367  ls
+  368  echo "Welkom by die Lingua Franca vertaaldienste" > afrikaans.txt 
+  369  cat afrikaans.txt 
+  370  git add .
+  371  ls
+  372  cd ..
+  373  ls
+  374  git
+  375  git init
+  376  ls
+  377  git init "Lingua Franca codecademy project on CLI"
+  378  ls
+  379  git add .
+  380  git status
+  381  git add .
+  382  pwd
+  383  ls
+  384  git master
+  385  ls
+  386  cd 'Lingua Franca codecademy project on CLI'/
+  387  ls
+  388  cd ..
+  389  ls
+  390  rm 'Lingua Franca codecademy project on CLI'/
+  391  rmdir 'Lingua Franca codecademy project on CLI'/
+  392  rm -r 'Lingua Franca codecademy project on CLI'/
+  393  ls
+  394  cd ..
+  395  ls
+  396  git init lingua-franca/
+  397  cd lingua-franca/
+  398  ls
+  399  git add .
+  400  git status
+  401  git commit -m 'task 1 to task 13 of the project' 
+  402  git push
+  403  git remote add joshuamwesigwa256
+  404  ls
+  405  cd
+  406  cd Desktop/
+  407  rm -r lingua-franca/
+  408  ls
+  409  rmdir lingua-franca/
+  410  rm -r lingua-franca/
+  411  ls
+  412  rm -rf lingua-franca/
+  413  ls
+  414  
+  415  https://github.com/joshuamwesigwa256/CLI-codecademy-project-Lingua-Franca-.git
+  416  git clone https://github.com/joshuamwesigwa256/CLI-codecademy-project-Lingua-Franca-.git
+  417  ls
+  418  ls
+  419  mv {asia/ northamerica/,spanish.txt,europe/,southamerica/,todo/} CLI-codecademy-project-Lingua-Franca-/
+  420  mv {asia/,northamerica/,spanish.txt,europe/,southamerica/,todo/} CLI-codecademy-project-Lingua-Franca-/
+  421  ls
+  422  mv africa/ CLI-codecademy-project-Lingua-Franca-/
+  423  ls
+  424  cd CLI-codecademy-project-Lingua-Franca-/
+  425  git status
+  426  git add .
+  427  git commit -m 'add the task files for the project'
+  428  git push
+  429  git remote
+  430  git remote set-url
+  431  git remote set-url origin https://joshuamwesigwa256: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@github.com/joshuamwesigwa256/CLI-codecademy-project-Lingua-Franca-.git
+  432  echo $USER
+  433  git push
+  434  ls
+  435  ls
+  436  pwd
+  437  ls
+  438  mkdir world
+  439  ls
+  440  git add .
+  441  git status
+  442  ls
+  443  git status
+  444  touch world/esperanto
+  445  ls
+  446  git add .
+  447  git status
+  448  git commit -m 'Adding task group 1'
+  449  git push
+  450  ls
+  451  ls -al
+  452  ls -al | sort
+  453  ls -al
+  454  ls -alt
+  455  ls
+  456  cd europe/; ls
+  457  mv chinese.txt ../asia/
+  458  ls
+  459  cd ..
+  460  ls
+  461  cp spanish.txt europe/; cp spanish.txt northamerica/; cp spanish.txt southamerica/
+  462  ls
+  463  cd todo/
+  464  ls
+  465  cp africa/afrihili.txt ../africa/; cp europe/yiddish.txt ../europe/
+  466  ls
+  467  cp asia/{bengali.txt,punjabi.txt} ../asia/
+  468  ls
+  469  cd ..
+  470  ls
+  471  cd todo/
+  472  ls
+  473  rm -r *
+  474  ls
+  475  git add .
+  476  git status
+  477  git commit -m 'Adding Task Group 2: Viewing and Changing the file system'
+  478  git push
+  479  ls
+  480  cd ..;ls
+  481  cd asia/;ls
+  482  ls > ../todo/asian_language_files.txt
+  483  pwd
+  484  echo "Welkom by die Lingua Franca vertaaldienste" > ../africa/afrikaans.txt 
+  485  ls
+  486  cd ..
+  487  ls
+  488  ls
+  489  grep *txt | wc
+  490  ls
+  491  cd CLI-codecademy-project-Lingua-Franca-/
+  492  ls
+  493  wc 
+  494  wc -l */*.txt
+  495  ls
+  496  cd CLI-codecademy-project-Lingua-Franca-/
+  497  ls
+  498  wc -l */*.txt
+  499  wc -l */*.txt | grep 0 
+  500  wc -l */*.txt | grep 0 > todo/empty_files.txt
+  501  wc -l */ *.txt | grep 0 > todo/empty_files.txt
+  502  ls
+  503  cd todo/;ls
+  504  ls
+  505  cd ..
+  506  ls
+  507  grep -l 'Lingua-Franca' */*.txt
+  508  grep -lR 'Lingua-Franca' */*.txt
+  509  grep -lR 'Lingua-Franca' */*.txt | wc -l
+  510  sed -i 's/Lingua-Franca/Lingua Franca/g' */*txt
+  511  git add .
+  512  git commit -m 'Adding task group 3: Redirecting Input and Output'
+  513  git push
+  514  nano ~/.bash_profile 
+  515  source ~/.bash_profile 
+  516  nano ~/.bash_profile 
+  517  source ~/.bash_profile 
+  518  d
+  519  export PS1=">> "
+  520  nano ~/.bash_profile 
+  521  source ~/.bash_profile 
+  522  hy
+  523  md mkdir-alias-testing
+  524  env
+  525  git add .
+  526  git commit -m 'Adding task group 4: Configuring the Environment'
+  527  git push
+  528  hy
+  529  ls
+  530  hy > All_commands_used.txt
