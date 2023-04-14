@@ -1,0 +1,9 @@
+      0 africa/
+      0 asia/
+      0 europe/
+      0 northamerica/
+      0 southamerica/
+      0 todo/
+      0 world/
+      0 spanish.txt
+      0 total
